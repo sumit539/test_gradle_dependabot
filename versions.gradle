@@ -1,3 +1,3 @@
 ext {
-    guavaVersion = '29.0-jre'
+    guavaVersion = '2.1'
 }
