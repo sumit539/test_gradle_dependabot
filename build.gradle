@@ -14,8 +14,7 @@ repositories {
 }
 
 dependencies {
-  implementation "com.google.guava:guava:$guavaVersion"
-  implementation "commons-io:commons-io:2.16.0"
+  implementation "commons-io:commons-io:$guavaVersion"
   implementation "com.google.guava:guava:32.0.0-jre"
   
 }
