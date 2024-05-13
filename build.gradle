@@ -14,8 +14,11 @@ repositories {
 }
 
 dependencies {
-  implementation "commons-io:commons-io:$guavaVersion"
-  implementation "com.google.guava:guava:33.2.0-jre"
+  implementation "commons-io:commons-io:2.1"
+  implementation "com.typesafe.akka:akka-actor_2.12:2.4.17"
+  implementation "com.google.code.gson:gson:2.8.7"
+  implementation "com.google.guava:guava:32.0.0-jre"
+  implementation "com.fasterxml.jackson.core:jackson-databind:2.14.1"
   
 }
 
